@@ -1,0 +1,19 @@
+.sidebar {
+    width: 280px;
+    height: 100%;
+    background-color: #FFFFFF;
+    padding: 40px 10px;
+
+}
+
+
+.sidebar_img {
+    padding: 10px 20px;
+    background-color: #F5F6FA;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+}

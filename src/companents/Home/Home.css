@@ -1,0 +1,6 @@
+.home {
+    display: flex;
+    min-height: 500px;
+
+    overflow: hidden;
+}

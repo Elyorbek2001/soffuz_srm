@@ -1,0 +1,19 @@
+.sel {
+    border: none;
+    padding: 10px;
+    outline: none;
+}
+
+.pagination {
+    height: 50px;
+    align-items: center;
+}
+
+.pg_btn {
+    background-color: #177EFF;
+
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
